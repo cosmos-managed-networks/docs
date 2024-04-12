@@ -1,7 +1,3 @@
-Here's a revised and properly formatted version of the GitHub README.md for CosmoCraft:
-
----
-
 # CosmoCraft: Chain Creation Guide
 
 Welcome to CosmoCraft, your go-to solution for creating customizable Cosmos blockchains with ease. This guide will help you navigate the initial steps of creating your Cosmos blockchain using our intuitive UI, focusing on the available customizations.
